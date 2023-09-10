@@ -1,2 +1,2 @@
 # sample-nestjs-app
-Sample NestJS Application
+Sample NestJS Application with Docker
